@@ -265,7 +265,7 @@ Screenshot berikut digunakan untuk memperlihatkan hasil implementasi dan penguji
 
 ### 6. Accelerometer
 
-![Accelerometer](assets/screenshots/demo.jpeg)
+![Accelerometer](assets/screenshots/demo_accelerometer.jpeg)
 
 > Catatan: Nama file screenshot di atas harus disesuaikan dengan file yang benar-benar dimasukkan ke folder `assets/screenshots/`.
 
